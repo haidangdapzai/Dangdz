@@ -1,4 +1,4 @@
-# Dangdz
+--Dangdz
 task.wait(0.5)
 if _G.D then _G.D:Destroy() end
 local s = Instance.new("ScreenGui", game:GetService("CoreGui"))
